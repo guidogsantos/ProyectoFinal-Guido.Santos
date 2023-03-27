@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     font-weight: bold;
     color: rgb(255, 255, 255);
     font-family: 'Tilt Neon', cursive;
@@ -16,6 +16,11 @@ h3{
     text-align: center;
     font-size: 25px;
 }
+
+.swal2-html-container {
+    background-color: white;
+}
+
 
 .form{
     margin: 70px;
